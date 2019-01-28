@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\bin\Debug\Ratuj ludzi.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\bin\Debug\Ratuj ludzi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\bin\Debug\Ratuj ludzi.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj ludzi.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj ludzi_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj ludzi_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj ludzi.g.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj_ludzi.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj ludzi.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj ludzi.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Ratuj ludzi\Ratuj ludzi\obj\Debug\Ratuj ludzi.pdb
