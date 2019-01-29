@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\bin\Debug\If-else w Winforms.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\bin\Debug\If-else w Winforms.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\bin\Debug\If-else w Winforms.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\obj\Debug\If-else w Winforms.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\obj\Debug\If_else_w_Winforms.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\obj\Debug\If_else_w_Winforms.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\obj\Debug\If-else w Winforms.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\obj\Debug\If-else w Winforms.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\If-else w Winforms\If-else w Winforms\obj\Debug\If-else w Winforms.pdb
