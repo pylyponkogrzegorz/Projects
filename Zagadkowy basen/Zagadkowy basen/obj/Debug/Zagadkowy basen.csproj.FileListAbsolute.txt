@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\bin\Debug\Zagadkowy basen.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\bin\Debug\Zagadkowy basen.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\bin\Debug\Zagadkowy basen.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy basen.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy basen_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy basen_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy basen.g.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy_basen.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy basen.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy basen.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Zagadkowy basen\Zagadkowy basen\obj\Debug\Zagadkowy basen.pdb
