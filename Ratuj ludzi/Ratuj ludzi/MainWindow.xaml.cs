@@ -93,6 +93,16 @@ namespace Ratuj_ludzi
             AnimateEnemy(enemy, random.Next((int)playArea.ActualHeight - 100), random.Next((int)playArea.ActualHeight - 100), "(Canvas.Top)");
             playArea.Children.Add(enemy);
 
+            enemy.MouseEnter += Enemy_MouseEnter;
+
+        }
+
+        private void Enemy_MouseEnter(object sender, MouseEventArgs e)
+        {
+            if (humanCaptured)
+            {
+                EndTheGame();
+            }
         }
 
         private void AnimateEnemy(ContentControl enemy, double from , double to, string propertyToAnimate)
@@ -137,10 +147,28 @@ namespace Ratuj_ludzi
          {
              if (humanCaptured)
              {
-                 Point MousePosition = e.GetPosition(null);
+                Point MousePosition = e.GetPosition(null);
+                Point relativePosition = Grid.TransformToVisual(playArea).Transform(MousePosition);
+                if ((Math.Abs(relativePosition.X - Canvas.GetLeft(human)) > human.ActualWidth * 3) || (Math.Abs(relativePosition.Y - Canvas.GetTop(human)) > human.ActualHeight * 3))
+                {
+                    humanCaptured = false;
+                    human.IsHitTestVisible = true;
+                }
+                else
+                {
+                    Canvas.SetLeft(human, relativePosition.X - human.ActualWidth / 2);
+                    Canvas.SetTop(human, relativePosition.Y - human.ActualHeight / 2);
+                }
 
-             }
-         } 
+            }
+         }
 
+        private void playArea_MouseLeave(object sender, MouseEventArgs e)
+        {
+            if (humanCaptured)
+            {
+                EndTheGame();
+            }
+        }
     }
 }
