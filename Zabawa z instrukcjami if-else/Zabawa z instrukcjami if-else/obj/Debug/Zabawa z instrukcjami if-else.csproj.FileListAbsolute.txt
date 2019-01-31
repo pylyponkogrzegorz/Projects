@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\bin\Debug\Zabawa z instrukcjami if-else.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\bin\Debug\Zabawa z instrukcjami if-else.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\bin\Debug\Zabawa z instrukcjami if-else.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa z instrukcjami if-else.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa z instrukcjami if-else_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa z instrukcjami if-else_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa z instrukcjami if-else.g.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa_z_instrukcjami_if_else.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa z instrukcjami if-else.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa z instrukcjami if-else.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Zabawa z instrukcjami if-else\Zabawa z instrukcjami if-else\obj\Debug\Zabawa z instrukcjami if-else.pdb
