@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\bin\Debug\appka1.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\bin\Debug\appka1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\bin\Debug\appka1.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\obj\Debug\appka1.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\obj\Debug\appka1.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\obj\Debug\appka1.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\obj\Debug\appka1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\appka1\appka1\obj\Debug\appka1.pdb
+c:\Users\LENOVO\Documents\Visual Studio 2015\Projects\appka1\appka1\obj\Debug\appka1.csprojResolveAssemblyReference.cache
+c:\Users\LENOVO\Documents\Visual Studio 2015\Projects\appka1\appka1\obj\Debug\appka1.Form2.resources
+c:\Users\LENOVO\Documents\Visual Studio 2015\Projects\appka1\appka1\obj\Debug\appka1.Form3.resources
