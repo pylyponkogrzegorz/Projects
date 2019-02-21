@@ -27,18 +27,24 @@ namespace Dinner_Party
         private void NumberOfPeopleNumeric_ValueChanged(object sender, EventArgs e)
         {
             dinnerParty.NumberOfPeople = (int)NumberOfPeopleNumeric.Value;
+            dinnerParty.SetHealthyOption(healthyOptionCheckBox.Checked);
+            dinnerParty.CalculateCostOfDecorations(decorationsCheckBox.Checked);
             DisplayDinnerPartyCost();
         }
 
         private void healthyOptionCheckBox_CheckedChanged(object sender, EventArgs e)
         {
+            dinnerParty.NumberOfPeople = (int)NumberOfPeopleNumeric.Value;
+            dinnerParty.CalculateCostOfDecorations(decorationsCheckBox.Checked);
             dinnerParty.SetHealthyOption(healthyOptionCheckBox.Checked);
             DisplayDinnerPartyCost();
         }
 
         private void decorationsCheckBox_CheckedChanged(object sender, EventArgs e)
         {
+            dinnerParty.NumberOfPeople = (int)NumberOfPeopleNumeric.Value;
             dinnerParty.CalculateCostOfDecorations(decorationsCheckBox.Checked);
+            dinnerParty.SetHealthyOption(healthyOptionCheckBox.Checked);
             DisplayDinnerPartyCost();
         }
 
