@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\bin\Debug\Symulator wyścigów.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\obj\Debug\Symulator wyścigów.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\obj\Debug\Symulator_wyścigów.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\obj\Debug\Symulator_wyścigów.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\obj\Debug\Symulator wyścigów.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\bin\Debug\Symulator wyścigów.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\bin\Debug\Symulator wyścigów.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\obj\Debug\Symulator wyścigów.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Symulator wyścigów\Symulator wyścigów\obj\Debug\Symulator wyścigów.pdb
