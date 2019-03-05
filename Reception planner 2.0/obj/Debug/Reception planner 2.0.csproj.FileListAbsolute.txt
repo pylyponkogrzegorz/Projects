@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\bin\Debug\Reception planner 2.0.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\bin\Debug\Reception planner 2.0.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\bin\Debug\Reception planner 2.0.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\obj\Debug\Reception planner 2.0.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\obj\Debug\Reception_planner_2._0.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\obj\Debug\Reception_planner_2._0.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\obj\Debug\Reception planner 2.0.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\obj\Debug\Reception planner 2.0.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Reception planner 2.0\obj\Debug\Reception planner 2.0.pdb
